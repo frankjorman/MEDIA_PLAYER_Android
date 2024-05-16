@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MEDIA_PLAYER</string>
+
+    <string name="reproducir"><![CDATA[|>]]></string>
+    <string name="atras"><![CDATA[<<]]></string>
+    <string name="adelante"><![CDATA[>>]]></string>
+    <string name="pausar">||</string>
+</resources>
